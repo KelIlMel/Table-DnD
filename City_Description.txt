@@ -1,0 +1,15 @@
+City :{
+Giant snow-white walls and houses grey as ashes
+}City;
+
+World :{
+You made it
+}World;
+
+Tavern :{
+Old lady
+}Tavern;
+
+Church :{
+helarious joke
+}Church;
